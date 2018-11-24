@@ -1,0 +1,18 @@
+
+body{
+	margin: 0;
+}
+
+
+.table-responsive .table  {
+	font-size: 16px
+
+}
+.add-membar {
+	padding: 20px 0px;
+	/* border-bottom: 1px solid; */
+}
+.dropdown, .dropup {
+	display: inline-block !important;
+	margin-bottom: 10px;
+}
